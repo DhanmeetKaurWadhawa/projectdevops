@@ -1,1 +1,2 @@
 This is first feature of out application
+This is bug fix
